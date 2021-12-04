@@ -130,7 +130,7 @@ export default function BubbleApp(){
     return(
         <>
         <header>
-            <h1 className="header-title"><i class="bi bi-ui-radios-grid"></i> Merge Bubbles</h1>
+            <h1 className="header-title"><i className="bi bi-ui-radios-grid"></i> Merge Bubbles</h1>
             <h5 className="header-credits">Created by <a href="github.com/bkfan1">Jack</a> (aka bkfan1)</h5>
         </header>
         <div className="grid-container">
